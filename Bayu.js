@@ -1181,10 +1181,10 @@ menu =
 ╰─⬣
 
 ╭─⬣「 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 」⬣
-│✾ BAYU OFC
-│✾ Kaguya-Bot
-│✾ Baileys
-╰─⬣「 KAGUYA-BOT 3.0.0 」⬣`
+│✾ YUNSIL STORE
+│✾ Yunsil-Bot
+│✾ ORTU
+╰─⬣「 BOT 3.0.0 」⬣`
 teks =
 `Yunsil Botz™© | Yunsil Store
 ${tampilTanggal}`
@@ -1197,9 +1197,9 @@ menu =
 `╭─⬣ 「 𝗗𝗢𝗡𝗔𝗦𝗜 」⬣
 │✾ 𝘿𝙖𝙣𝙖 : 081366198336
 │✾ 𝙊𝙫𝙤 : 089654923571
-│✾ 𝙂𝙤𝙥𝙖𝙮 : SCAN QR DIATAS AJA
+│✾ 𝙂𝙤𝙥𝙖𝙮 : _tidak tersedia_
 ╰─⬣
-Scan QR di atas bila pengguna Dana`
+Scan QR di atas`
 teks =
 `Yunsil Botz™© | Yunsil Store
 ${tampilTanggal}`
